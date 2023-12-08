@@ -1,5 +1,6 @@
 ## Subject
 
+```
 Assignment name  : ulstr
 Expected files   : ulstr.c
 Allowed functions: write
@@ -22,3 +23,4 @@ $>./ulstr "3:21 Ba  tOut  moUn ki Ka di KE m'en Ka fe fot" | cat -e
 3:21 bA  ToUT  MOuN KI kA DI ke M'EN kA FE FOT$
 $>./ulstr | cat -e
 $
+```
