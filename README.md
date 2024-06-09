@@ -154,7 +154,8 @@ You should be able to use both VSCode and Vim in the exam.
 # Exam Practice Tool
 
 Practice the exam just like you would in the real exam using this tool - https://github.com/JCluzet/42_EXAM
-#### Exam Rank 04
+
+# Exam Rank 04
 
 During the Common Core, before you validate each Cercle the student must passed the exam successfully.
 
